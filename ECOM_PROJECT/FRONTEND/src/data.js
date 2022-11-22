@@ -1,0 +1,55 @@
+const data = {
+    products:
+        [{
+            name: 'Assidas Slim Shirt',
+            slug: 'addidas-slim-shirt',
+            catagory: 'Shirt',
+            imageSo: '/images/p1.jpg',
+            price: 129,
+            countStock: 10,
+            brand: 'Addidas',
+            rating: 4.7,
+            numReviews: 10,
+            description: 'high quality shirt',
+        },
+        {
+            name: 'Nike Slim Shirt',
+            slug: 'Nike-slim-shirt',
+            catagory: 'Shirt',
+            imageSo: '/images/p2.jpg',
+            price: 129,
+            countStock: 10,
+            brand: 'Nike',
+            rating: 4.7,
+            numReviews: 10,
+            description: 'high quality shirt',
+        },
+        {
+            name: 'Pantaloons Slim Shirt',
+            slug: 'Pantaloons-slim-shirt',
+            catagory: 'Shirt',
+            imageSo: '/images/p3.jpg',
+            price: 129,
+            countStock: 10,
+            brand: 'Pantaloons',
+            rating: 4.7,
+            numReviews: 10,
+            description: 'high quality shirt',
+        },
+        {
+            name: 'KHADI Slim Shirt',
+            slug: 'KHADI-slim-shirt',
+            catagory: 'Shirt',
+            imageSo: '/images/p4.jpg',
+            price: 129,
+            countStock: 10,
+            brand: 'KHADI',
+            rating: 4.7,
+            numReviews: 10,
+            description: 'high quality shirt',
+        },
+        ],
+
+};
+
+export default data;
